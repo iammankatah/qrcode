@@ -29,10 +29,6 @@ used css properties such as the following;
 
 ## Author
 
-- Website - [Add your name here](https://iammankatah.github.io/qrcode/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iammankatah)
-- Twitter - [@yourusername](https://twitter.com/mankattah_)
-
-
-
-
+- Website - [https://github.com/iammankatah](https://iammankatah.github.io/qrcode/)
+- Frontend Mentor - [@iammankatah](https://www.frontendmentor.io/profile/iammankatah)
+- Twitter - [@mankattah_](https://twitter.com/mankattah_)
